@@ -143,45 +143,45 @@ Novos projetos são publicados continuamente conforme minha evolução.
 # Roadmap de Estudos
 
 ```text
-Engenharia de Testes
+Testes de Software
 
-███████████████████████░░░░
+███████████████████████░░░░ 85%
 
 Análise de Testes
 
-█████████████████████░░░░░░
+█████████████████████░░░░░░ 80%
 
 Análise de Requisitos
 
-████████████████████░░░░░░░
+████████████████████░░░░░░░ 75%
 
 Testes de API
 
-██████████████████░░░░░░░░░
+██████████████████░░░░░░░░░ 70%
 
 SQL
 
-████████████████░░░░░░░░░░░
+████████████████░░░░░░░░░░░ 65%
 
 Playwright
 
-███████████████░░░░░░░░░░░░
+███████████████░░░░░░░░░░░░ 60%
 
 Cypress
 
-██████████████░░░░░░░░░░░░░
+██████████████░░░░░░░░░░░░░ 55%
 
 CI/CD
 
-████████░░░░░░░░░░░░░░░░░░░
+████████░░░░░░░░░░░░░░░░░░░ 30%
 
 Performance Testing
 
-██████░░░░░░░░░░░░░░░░░░░░░
+██████░░░░░░░░░░░░░░░░░░░░░ 20%
 
-Accessibility
+Accessibility Testing
 
-█████░░░░░░░░░░░░░░░░░░░░░░
+█████░░░░░░░░░░░░░░░░░░░░░░ 15%
 ```
 
 ---
@@ -191,6 +191,16 @@ Accessibility
 Meu objetivo é construir uma carreira sólida em Engenharia de Qualidade de Software, contribuindo para o desenvolvimento de produtos confiáveis, colaborando com equipes de alta performance e ajudando a criar processos que elevem continuamente a qualidade das entregas.
 
 Tenho interesse especial por projetos de alta complexidade, principalmente nas áreas financeira, bancária e de tecnologia.
+
+---
+
+# Atualmente trabalhando em
+
+- Aprimorando minhas habilidades em automação
+- Construindo um portfólio profissional de QA
+- Aprofundando meus conhecimentos em testes de software
+- Estudando para a certificação ISTQB CTFL
+- Aprendendo mais sobre arquitetura de software e engenharia de qualidade
 
 ---
 
