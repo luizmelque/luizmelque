@@ -2,6 +2,10 @@
 <!--                     LUIZ MELQUE README                     -->
 <!-- ========================================================= -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/brand-mark.svg" width="64" alt="Brand mark"/>
+</p>
+
 <h1 align="center">Hi, I'm Luiz Melque 👋</h1>
 
 <h3 align="center">
@@ -18,9 +22,11 @@ Building quality through critical thinking, structured testing and continuous im
 
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# About Me
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/about.svg" width="260" alt="About Me"/>
 
 Software quality, for me, is much more than executing test cases.
 
@@ -32,7 +38,9 @@ My journey into technology came after experiences in completely different fields
 
 Today I'm focused on becoming the kind of QA Engineer that development teams trust not only to find bugs, but to improve software quality throughout the entire development process.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # What you'll find here
 
@@ -57,9 +65,11 @@ Inside my repositories you'll find:
 
 Everything here is continuously improved as I evolve professionally.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Engineering Principles
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/philosophy.svg" width="280" alt="Engineering Principles"/>
 
 These principles guide the way I approach software quality.
 
@@ -71,7 +81,9 @@ These principles guide the way I approach software quality.
 - Automation should simplify maintenance, not increase complexity.
 - Continuous improvement is more valuable than perfection.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Current Focus
 
@@ -88,60 +100,55 @@ I'm currently dedicating my studies to:
 - Software Architecture Fundamentals
 - Test Automation Best Practices
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Technical Skills
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/skills.svg" width="220" alt="Technical Skills"/>
 
 ## Software Testing
 
-- Manual Testing
-- Functional Testing
-- Exploratory Testing
-- Smoke Testing
-- Regression Testing
-- API Testing
-- Requirement Analysis
-- Test Case Design
-- Bug Reporting
-- Risk Analysis
-
----
+Manual Testing · Functional Testing · Exploratory Testing · Smoke Testing · Regression Testing · API Testing · Requirement Analysis · Test Case Design · Bug Reporting · Risk Analysis
 
 ## Automation
 
-- Playwright
-- Cypress
-- Postman
-
----
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/playwright.svg" height="32" alt="Playwright"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/cypress.svg" height="32" alt="Cypress"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/postman.svg" height="32" alt="Postman"/>
+</p>
 
 ## Programming
 
-- JavaScript
-- TypeScript
-- Node.js
-
----
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/javascript.svg" height="32" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/typescript.svg" height="32" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/nodejs.svg" height="32" alt="Node.js"/>
+</p>
 
 ## Database
 
-- SQL
-- PostgreSQL
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/sql.svg" height="32" alt="SQL"/>
+</p>
 
----
++ PostgreSQL *(badge coming soon)*
 
 ## Tools
 
-- Git
-- GitHub
-- Docker
-- Jira
-- Trello
-- VS Code
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/git.svg" height="32" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/docker.svg" height="32" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/jira.svg" height="32" alt="Jira"/>
+</p>
 
----
++ GitHub · Trello · VS Code *(badges coming soon)*
 
-# Featured Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
+
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/projects.svg" width="240" alt="Featured Projects"/>
 
 | Project | Description |
 |----------|-------------|
@@ -152,9 +159,11 @@ I'm currently dedicating my studies to:
 
 More projects are added continuously.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Learning Roadmap
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/roadmap.svg" width="260" alt="Learning Roadmap"/>
 
 ```text
 Software Testing
@@ -198,7 +207,9 @@ Accessibility Testing
 █████░░░░░░░░░░░░░░░░░░░░░░ 15%
 ```
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Career Goal
 
@@ -208,7 +219,9 @@ I'm especially interested in projects where quality is treated as an engineering
 
 Long-term, I aim to contribute to complex products, collaborate with high-performance teams and continuously improve software development processes.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Currently Working On
 
@@ -218,23 +231,27 @@ Long-term, I aim to contribute to complex products, collaborate with high-perfor
 - Studying for the ISTQB CTFL certification
 - Learning more about software architecture and quality engineering
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Connect With Me
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/contact.svg" width="220" alt="Connect With Me"/>
 
-📧 **Email**
+<p>
+  <a href="mailto:luizmelque.qa@gmail.com">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/email.svg" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/luizmelque-qa-tester-software">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/linkedin.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://luizmelque.github.io">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/portfolio.svg" alt="Portfolio"/>
+  </a>
+</p>
 
-luizmelque.qa@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/luizmelque-qa-tester-software
-
-🌐 **Portfolio**
-
-https://luizmelque.github.io
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Thank You
 
