@@ -1,12 +1,18 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/brand-mark.svg" width="64" alt="Marca"/>
+</p>
+
 # Olá, eu sou Luiz Melque 👋
 
 ### Engenheiro de Qualidade de Software (Quality Assurance)
 
 Construindo software de qualidade através de pensamento crítico, testes estruturados e melhoria contínua.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Sobre mim
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/about.svg" width="260" alt="About Me"/>
 
 Para mim, qualidade de software vai muito além de executar casos de teste.
 
@@ -20,7 +26,9 @@ Atualmente estou desenvolvendo minha carreira em Quality Assurance com foco em t
 
 Meu objetivo é ser o tipo de QA que ajuda o time a evitar problemas antes mesmo que eles aconteçam.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # O que você encontrará neste GitHub
 
@@ -45,9 +53,11 @@ Aqui você encontrará conteúdos relacionados a:
 
 Todos os projetos são constantemente atualizados conforme minha evolução profissional.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Meus princípios como QA
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/philosophy.svg" width="280" alt="Meus princípios como QA"/>
 
 Alguns princípios orientam a forma como trabalho e estudo:
 
@@ -59,7 +69,9 @@ Alguns princípios orientam a forma como trabalho e estudo:
 - Automação deve simplificar processos, nunca aumentar a complexidade.
 - Melhorar continuamente é parte do trabalho de um engenheiro.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Atualmente estudando
 
@@ -74,117 +86,82 @@ Alguns princípios orientam a forma como trabalho e estudo:
 - Arquitetura de Software
 - Boas práticas de Automação
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Competências Técnicas
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/skills.svg" width="220" alt="Competências Técnicas"/>
 
 ## Testes
 
-- Testes Manuais
-- Testes Funcionais
-- Testes Exploratórios
-- Testes de Regressão
-- Smoke Test
-- Testes de API
-- Análise de Requisitos
-- Projeto de Casos de Teste
-- Relatórios de Bugs
-- Análise de Riscos
-
----
+Testes Manuais · Testes Funcionais · Testes Exploratórios · Testes de Regressão · Smoke Test · Testes de API · Análise de Requisitos · Projeto de Casos de Teste · Relatórios de Bugs · Análise de Riscos
 
 ## Automação
 
-- Playwright
-- Cypress
-- Postman
-
----
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/playwright.svg" height="32" alt="Playwright"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/cypress.svg" height="32" alt="Cypress"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/postman.svg" height="32" alt="Postman"/>
+</p>
 
 ## Programação
 
-- JavaScript
-- TypeScript
-- Node.js
-
----
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/javascript.svg" height="32" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/typescript.svg" height="32" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/nodejs.svg" height="32" alt="Node.js"/>
+</p>
 
 ## Banco de Dados
 
-- SQL
-- PostgreSQL
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/sql.svg" height="32" alt="SQL"/>
+</p>
 
----
++ PostgreSQL *(badge em breve)*
 
 ## Ferramentas
 
-- Git
-- GitHub
-- Docker
-- Jira
-- Trello
-- Visual Studio Code
+<p>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/git.svg" height="32" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/docker.svg" height="32" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/jira.svg" height="32" alt="Jira"/>
+</p>
 
----
++ GitHub · Trello · Visual Studio Code *(badges em breve)*
 
-# Projetos em Destaque
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-| Projeto | Descrição |
-|----------|-----------|
-| QA Portfolio | Coleção de projetos demonstrando diferentes técnicas e práticas de testes de software. |
-| Automation Framework | Frameworks de automação utilizando Playwright e Cypress. |
-| API Testing | Coleções, validações e cenários de testes para APIs REST. |
-| Test Documentation | Exemplos profissionais de documentação utilizada em QA. |
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/projects.svg" width="240" alt="Projetos em Destaque"/>
+
+<table>
+<tr>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/qa-portfolio.svg" alt="QA Portfolio"/></a></td>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/automation-framework.svg" alt="Automation Framework"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/api-testing.svg" alt="API Testing"/></a></td>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/test-documentation.svg" alt="Test Documentation"/></a></td>
+</tr>
+</table>
 
 Novos projetos são publicados continuamente conforme minha evolução.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Roadmap de Estudos
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/roadmap.svg" width="260" alt="Roadmap de Estudos"/>
 
-```text
-Testes de Software
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/roadmap/roadmap.svg" width="640" alt="Barras de progresso do roadmap de estudos"/>
+</p>
 
-███████████████████████░░░░ 85%
-
-Análise de Testes
-
-█████████████████████░░░░░░ 80%
-
-Análise de Requisitos
-
-████████████████████░░░░░░░ 75%
-
-Testes de API
-
-██████████████████░░░░░░░░░ 70%
-
-SQL
-
-████████████████░░░░░░░░░░░ 65%
-
-Playwright
-
-███████████████░░░░░░░░░░░░ 60%
-
-Cypress
-
-██████████████░░░░░░░░░░░░░ 55%
-
-CI/CD
-
-████████░░░░░░░░░░░░░░░░░░░ 30%
-
-Performance Testing
-
-██████░░░░░░░░░░░░░░░░░░░░░ 20%
-
-Accessibility Testing
-
-█████░░░░░░░░░░░░░░░░░░░░░░ 15%
-```
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Objetivo Profissional
 
@@ -192,7 +169,9 @@ Meu objetivo é construir uma carreira sólida em Engenharia de Qualidade de Sof
 
 Tenho interesse especial por projetos de alta complexidade, principalmente nas áreas financeira, bancária e de tecnologia.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Atualmente trabalhando em
 
@@ -202,19 +181,27 @@ Tenho interesse especial por projetos de alta complexidade, principalmente nas �
 - Estudando para a certificação ISTQB CTFL
 - Aprendendo mais sobre arquitetura de software e engenharia de qualidade
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
-# Contato
+<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/contact.svg" width="220" alt="Contato"/>
 
-📧 **E-mail**
+<p>
+  <a href="mailto:luizmelque.qa@gmail.com">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/email.svg" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/luizmelque-qa-tester-software">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/linkedin.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://luizmelque.github.io">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/portfolio.svg" alt="Portfólio"/>
+  </a>
+</p>
 
-luizmelque.qa@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/luizmelque-qa-tester-software
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
+</p>
 
 # Obrigado pela visita!
 

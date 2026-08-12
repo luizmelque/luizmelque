@@ -150,12 +150,16 @@ Manual Testing · Functional Testing · Exploratory Testing · Smoke Testing · 
 
 <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/projects.svg" width="240" alt="Featured Projects"/>
 
-| Project | Description |
-|----------|-------------|
-| QA Portfolio | Collection of software testing projects demonstrating QA techniques and best practices. |
-| Automation Framework | End-to-end automation using Playwright and Cypress. |
-| API Testing | API validation, collections and automated requests. |
-| Test Documentation | Professional QA documentation examples. |
+<table>
+<tr>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/qa-portfolio.svg" alt="QA Portfolio"/></a></td>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/automation-framework.svg" alt="Automation Framework"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/api-testing.svg" alt="API Testing"/></a></td>
+<td><a href="https://github.com/luizmelque?tab=repositories"><img src="https://raw.githubusercontent.com/luizmelque/luizmelque/main/assets/cards/test-documentation.svg" alt="Test Documentation"/></a></td>
+</tr>
+</table>
 
 More projects are added continuously.
 
@@ -165,47 +169,9 @@ More projects are added continuously.
 
 <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/roadmap.svg" width="260" alt="Learning Roadmap"/>
 
-```text
-Software Testing
-
-███████████████████████░░░░ 85%
-
-Test Analysis
-
-█████████████████████░░░░░░ 80%
-
-Requirement Analysis
-
-████████████████████░░░░░░░ 75%
-
-API Testing
-
-██████████████████░░░░░░░░░ 70%
-
-SQL
-
-████████████████░░░░░░░░░░░ 65%
-
-Playwright
-
-███████████████░░░░░░░░░░░░ 60%
-
-Cypress
-
-██████████████░░░░░░░░░░░░░ 55%
-
-CI/CD
-
-████████░░░░░░░░░░░░░░░░░░░ 30%
-
-Performance Testing
-
-██████░░░░░░░░░░░░░░░░░░░░░ 20%
-
-Accessibility Testing
-
-█████░░░░░░░░░░░░░░░░░░░░░░ 15%
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/roadmap/roadmap.svg" width="640" alt="Learning roadmap progress bars"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue.svg" width="700" alt=""/>
@@ -243,6 +209,10 @@ Long-term, I aim to contribute to complex products, collaborate with high-perfor
   </a>
   <a href="https://linkedin.com/in/luizmelque-qa-tester-software">
     <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/linkedin.svg" alt="LinkedIn"/>
+  </a>
+  <a href="https://luizmelque.github.io">
+    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/portfolio.svg" alt="Portfolio"/>
+  </a>
 </p>
 
 <p align="center">
