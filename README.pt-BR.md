@@ -214,10 +214,6 @@ luizmelque.qa@gmail.com
 
 https://linkedin.com/in/luizmelque-qa-tester-software
 
-🌐 **Portfólio**
-
-https://luizmelque.github.io
-
 ---
 
 # Obrigado pela visita!
