@@ -243,10 +243,6 @@ Long-term, I aim to contribute to complex products, collaborate with high-perfor
   </a>
   <a href="https://linkedin.com/in/luizmelque-qa-tester-software">
     <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/linkedin.svg" alt="LinkedIn"/>
-  </a>
-  <a href="https://luizmelque.github.io">
-    <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/portfolio.svg" alt="Portfolio"/>
-  </a>
 </p>
 
 <p align="center">
