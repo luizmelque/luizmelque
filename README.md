@@ -30,7 +30,9 @@ Building quality through critical thinking, structured testing and continuous im
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue-animated.svg" width="700" alt=""/>
 </p>
 
-<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/about.svg" alt="About Me"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/about.svg" alt="About Me"/>
+</p>
 
 Software quality, for me, is much more than executing test cases.
 
@@ -84,7 +86,9 @@ Everything here is continuously improved as I evolve professionally.
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue-animated.svg" width="700" alt=""/>
 </p>
 
-<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/philosophy.svg" alt="Engineering Principles"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/philosophy.svg" alt="Engineering Principles"/>
+</p>
 
 These principles guide the way I approach software quality.
 
@@ -119,7 +123,9 @@ I'm currently dedicating my studies to:
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue-animated.svg" width="700" alt=""/>
 </p>
 
-<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/skills.svg" alt="Technical Skills"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/skills.svg" alt="Technical Skills"/>
+</p>
 
 ## Software Testing
 
@@ -127,46 +133,48 @@ Manual Testing · Functional Testing · Exploratory Testing · Smoke Testing · 
 
 ## Automation
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/playwright.svg" height="32" alt="Playwright"/>
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/cypress.svg" height="32" alt="Cypress"/>
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/postman.svg" height="32" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Selenium-2F5FFF?style=flat-square" height="32" alt="Selenium"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/selenium.svg" height="32" alt="Selenium"/>
 </p>
 
 ## Programming
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/javascript.svg" height="32" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/typescript.svg" height="32" alt="TypeScript"/>
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/nodejs.svg" height="32" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-2F5FFF?style=flat-square" height="32" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-2F5FFF?style=flat-square" height="32" alt="PHP"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/python.svg" height="32" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/php.svg" height="32" alt="PHP"/>
 </p>
 
 ## Database
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/sql.svg" height="32" alt="SQL"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/postgresql.svg" height="32" alt="PostgreSQL"/>
 </p>
-
-+ PostgreSQL *(badge coming soon)*
 
 ## Tools
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/git.svg" height="32" alt="Git"/>
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/docker.svg" height="32" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/jira.svg" height="32" alt="Jira"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/github.svg" height="32" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/trello.svg" height="32" alt="Trello"/>
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/vscode.svg" height="32" alt="VS Code"/>
 </p>
-
-+ GitHub · Trello · VS Code *(badges coming soon)*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue-animated.svg" width="700" alt=""/>
 </p>
 
-<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/projects.svg" alt="Featured Projects"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/projects.svg" alt="Featured Projects"/>
+</p>
 
 All of my QA projects live as independent repositories, prefixed with `qa-` so they group together in the listing. Click a name to open it.
 
@@ -174,26 +182,26 @@ All of my QA projects live as independent repositories, prefixed with `qa-` so t
 
 | Project | Description | Stack |
 |---|---|---|
-| [qa-shineray-site-analysis](https://github.com/luizmelque/qa-shineray-site-analysis) | Functional and exploratory testing on Shineray Brazil's site, with test cases, evidence and a bug report for a real critical defect. | ![Manual](https://img.shields.io/badge/Manual-64748B?style=flat-square) ![Exploratory](https://img.shields.io/badge/Exploratory-64748B?style=flat-square) |
-| [qa-shopee-manual-testing](https://github.com/luizmelque/qa-shopee-manual-testing) | Full manual testing project on an e-commerce platform: test plan, test cases, bug report, UX analysis and quality metrics. | ![Manual](https://img.shields.io/badge/Manual-64748B?style=flat-square) ![UX](https://img.shields.io/badge/UX%20Analysis-64748B?style=flat-square) |
-| [qa-checklist-cadastro](https://github.com/luizmelque/qa-checklist-cadastro) | Structured test checklist for a user sign-up flow. | ![Checklist](https://img.shields.io/badge/Checklist-64748B?style=flat-square) |
-| [qa-test-matrix-login-saucedemo](https://github.com/luizmelque/qa-test-matrix-login-saucedemo) | Test matrix covering login scenarios for an e-commerce demo app (SauceDemo). | ![Test Matrix](https://img.shields.io/badge/Test%20Matrix-64748B?style=flat-square) |
-| [qa-bug-report-login](https://github.com/luizmelque/qa-bug-report-login) | Bug report for issues found in the login flow, with severity, reproduction steps and evidence. | ![Bug Report](https://img.shields.io/badge/Bug%20Report-64748B?style=flat-square) |
-| [qa-miniproject-saucedemo](https://github.com/luizmelque/qa-miniproject-saucedemo) | Mini QA project documenting manual tests performed on the SauceDemo app. | ![Manual](https://img.shields.io/badge/Manual-64748B?style=flat-square) |
-| [qa-challenge-api-report](https://github.com/luizmelque/qa-challenge-api-report) | Functional and exploratory test report for a REST API, executed via Postman, with real bugs found. | ![API](https://img.shields.io/badge/API-64748B?style=flat-square) ![Postman](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/postman.svg) |
+| [qa-shineray-site-analysis](https://github.com/luizmelque/qa-shineray-site-analysis) | Functional and exploratory testing on Shineray Brazil's site, with test cases, evidence and a bug report for a real critical defect. | ![Manual](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-manual.svg) ![Exploratory](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-exploratory.svg) |
+| [qa-shopee-manual-testing](https://github.com/luizmelque/qa-shopee-manual-testing) | Full manual testing project on an e-commerce platform: test plan, test cases, bug report, UX analysis and quality metrics. | ![Manual](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-manual.svg) ![UX](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-ux-analysis.svg) |
+| [qa-checklist-cadastro](https://github.com/luizmelque/qa-checklist-cadastro) | Structured test checklist for a user sign-up flow. | ![Checklist](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-checklist.svg) |
+| [qa-test-matrix-login-saucedemo](https://github.com/luizmelque/qa-test-matrix-login-saucedemo) | Test matrix covering login scenarios for an e-commerce demo app (SauceDemo). | ![Test Matrix](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-test-matrix.svg) |
+| [qa-bug-report-login](https://github.com/luizmelque/qa-bug-report-login) | Bug report for issues found in the login flow, with severity, reproduction steps and evidence. | ![Bug Report](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-bug-report.svg) |
+| [qa-miniproject-saucedemo](https://github.com/luizmelque/qa-miniproject-saucedemo) | Mini QA project documenting manual tests performed on the SauceDemo app. | ![Manual](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-manual.svg) |
+| [qa-challenge-api-report](https://github.com/luizmelque/qa-challenge-api-report) | Functional and exploratory test report for a REST API, executed via Postman, with real bugs found. | ![API](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/tag-api.svg) ![Postman](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/postman.svg) |
 
 ### 🤖 Test Automation
 
 | Project | Description | Stack |
 |---|---|---|
 | [qa-automation-cypress-saucedemo](https://github.com/luizmelque/qa-automation-cypress-saucedemo) | End-to-end automation POC in Cypress, using Page Object Model, covering login, cart and checkout. | ![Cypress](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/cypress.svg) ![JavaScript](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/javascript.svg) |
-| [qa-automation-selenium-saucedemo](https://github.com/luizmelque/qa-automation-selenium-saucedemo) | Test automation POC with Python + Selenium for the SauceDemo login flow. | ![Python](https://img.shields.io/badge/Python-2F5FFF?style=flat-square) ![Selenium](https://img.shields.io/badge/Selenium-2F5FFF?style=flat-square) |
+| [qa-automation-selenium-saucedemo](https://github.com/luizmelque/qa-automation-selenium-saucedemo) | Test automation POC with Python + Selenium for the SauceDemo login flow. | ![Python](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/python.svg) ![Selenium](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/selenium.svg) |
 
 ### 🔧 Test Infrastructure
 
 | Project | Description | Stack |
 |---|---|---|
-| [qa-challenge-api-backend](https://github.com/luizmelque/qa-challenge-api-backend) | PHP backend (Slim + Docker) used as the system under test for the API challenge above — supporting code, not a QA artifact itself. | ![PHP](https://img.shields.io/badge/PHP-64748B?style=flat-square) ![Docker](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/docker.svg) |
+| [qa-challenge-api-backend](https://github.com/luizmelque/qa-challenge-api-backend) | PHP backend (Slim + Docker) used as the system under test for the API challenge above — supporting code, not a QA artifact itself. | ![PHP](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/php.svg) ![Docker](https://raw.githubusercontent.com/luizmelque/qa-design-system/main/badges/docker.svg) |
 
 New projects are published continuously — this README is updated with every new repository.
 
@@ -201,7 +209,9 @@ New projects are published continuously — this README is updated with every ne
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue-animated.svg" width="700" alt=""/>
 </p>
 
-<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/roadmap.svg" alt="Learning Roadmap"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/roadmap.svg" alt="Learning Roadmap"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/roadmap/roadmap-animated.svg" width="640" alt="Learning roadmap progress bars, animated"/>
@@ -235,9 +245,11 @@ Long-term, I aim to contribute to complex products, collaborate with high-perfor
   <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/dividers/divider-blue-animated.svg" width="700" alt=""/>
 </p>
 
-<img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/contact.svg" alt="Connect With Me"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/headers/contact.svg" alt="Connect With Me"/>
+</p>
 
-<p>
+<p align="center">
   <a href="mailto:luizmelque.qa@gmail.com">
     <img src="https://raw.githubusercontent.com/luizmelque/qa-design-system/main/buttons/email.svg" alt="Email"/>
   </a>
