@@ -45,7 +45,7 @@ Meu objetivo é ser o tipo de QA que ajuda o time a evitar problemas antes mesmo
 # 📊 GitHub em tempo real
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizmelque&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2F5FFF&icon_color=00C2B8&text_color=F7F8FA&ring_color=2F5FFF" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luizmelque&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=2F5FFF&icon_color=00C2B8&text_color=F7F8FA&ring_color=2F5FFF" alt=""/>
   <img height="165" src="https://streak-stats.demolab.com?user=luizmelque&theme=transparent&hide_border=true&background=00000000&ring=2F5FFF&fire=00C2B8&currStreakLabel=2F5FFF&sideLabels=F7F8FA&currStreakNum=F7F8FA&sideNums=F7F8FA&dates=64748B" alt="Sequência de contribuições"/>
 </p>
 
